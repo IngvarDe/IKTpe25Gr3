@@ -10,7 +10,7 @@
             //kui sisestad ja, siis kutsub meetodi v'lja
             //kui kirjutad ei, siis ei kutsu meetodit v'lja
             string choice = Console.ReadLine();
-
+            //teha vooskeem e flowchart
             if (choice == "ja")
             {
                 //siin kutsun DoSomething meetodi v'lja
