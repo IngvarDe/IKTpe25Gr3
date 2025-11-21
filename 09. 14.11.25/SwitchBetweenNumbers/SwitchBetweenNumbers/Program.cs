@@ -10,7 +10,6 @@
             //kolmanda puhul 201 kuni 300
             //kasutada switchi
             Console.WriteLine("Sisesta number");
-
             int number = int.Parse(Console.ReadLine());
 
             switch (number)
